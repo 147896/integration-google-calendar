@@ -1,0 +1,7 @@
+*.pyc
+*.bkp
+*.json
+*.sh
+opmon
+webscraping
+slack
